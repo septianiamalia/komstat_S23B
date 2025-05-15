@@ -1,0 +1,5 @@
+head(AirPassengers, 10)
+tail(AirPassengers, 10)
+str(AirPassengers, 10)
+summary(AirPassengers)
+hist(AirPassengers$Jan)
